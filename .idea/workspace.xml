@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e539abae-9d06-4103-a295-fed3997bb619" name="Changes" comment="mimgohus">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MIMGOHUS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArithSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AverageEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AverageThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertUnit1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertUnit2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertUnit3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NPerfects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberProps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimplifyFrac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SuperPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TripleEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ngaytrongthang.java" afterDir="false" />
-    </list>
+    <list default="true" id="e539abae-9d06-4103-a295-fed3997bb619" name="Changes" comment="mimgohus" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1741686686642</updated>
     </task>
+    <task id="LOCAL-00001" summary="mimgohus">
+      <created>1741690736368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741690736368</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
